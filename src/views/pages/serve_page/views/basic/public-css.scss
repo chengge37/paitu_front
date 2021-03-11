@@ -1,0 +1,89 @@
+.margin {
+  margin-bottom: 28px;
+}
+
+.short-input /deep/ .el-input {
+  width: 230px;
+}
+
+.long-input /deep/ .el-input {
+  width: 100%;
+}
+
+.card {
+  padding: 20px 30px;
+  background: #fff;
+  margin-bottom: 20px;
+
+  .headTitle {
+    font-size: 20px;
+    color: #333;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  .dataSync {
+    margin: 25px;
+  }
+
+  .dataContent {
+    display: flex;
+    align-items: baseline;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+
+    .headTitle {
+      padding: 0px;
+      border: none;
+    }
+
+    svg {
+      color: #7c6aff;
+      margin: 0px 5px;
+    }
+
+    span {
+      color: #7c6aff;
+    }
+  }
+
+  .line {
+    background: tomato;
+    border-top: 1px solid #f0f0f0;
+    margin-top: 30px;
+  }
+
+  .order-taking {
+    display: inline-block;
+    position: relative;
+  }
+
+  .el-form-item {
+    margin: 20px 0px;
+
+    /deep/ {
+      .el-form-item__label {
+        width: 120px !important;
+        text-align: left;
+      }
+
+      .el-form-item__content {
+        margin-left: 120px !important;
+      }
+    }
+
+    &.logoImg {
+      /deep/ {
+        .el-form-item__content {
+          display: flex;
+
+          .tips {
+            color: #999;
+            font-size: 12px;
+            margin-left: 30px;
+          }
+        }
+      }
+    }
+  }
+}

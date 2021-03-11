@@ -1,0 +1,6 @@
+[0611/151526.676:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0628/213531.728:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0628/214531.728:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0628/214531.729:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0706/125915.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0706/230940.596:ERROR:crash_report_database_win.cc(469)] failed to stat report

@@ -1,0 +1,295 @@
+[33mcommit 06c976f4e84782e32357698bec2ee1593d8227ce[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4c99f04 e86e27c
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Mon Jul 22 19:27:02 2019 +0800
+
+    update
+
+[33mcommit 4c99f04dbb502bec57e99ddb52289ad9a2273a54[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Mon Jul 22 19:14:18 2019 +0800
+
+    update
+
+[33mcommit e86e27c442fd2d3d6ec974a30f0588294f76fd84[m
+Merge: 62c652d b31afcf
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Mon Jul 22 19:09:30 2019 +0800
+
+    合并
+
+[33mcommit 62c652daee1c36956e3b5c0f79a21f676acbc7a9[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Mon Jul 22 19:04:29 2019 +0800
+
+    修正活动路由设置错误,修正minilogin无法正常拉起
+
+[33mcommit b31afcf66a4fe4e9025cf0da635c2a355b45131e[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Mon Jul 22 11:11:26 2019 +0800
+
+    个人中心消息模块ui调整
+
+[33mcommit 89564d4a5c756f766e82ddb4c4352ec5bd906640[m
+Merge: 73da449 98172d0
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Sat Jul 20 20:02:27 2019 +0800
+
+    Merge branch 'master' of paitume.tpddns.cn:paitu/front
+
+[33mcommit 98172d0b9d224dc242847497e6dbbf49ce30341a[m
+Merge: 3fc43fd 1346481
+Author: chengge37 <554174804@qq.com>
+Date:   Sat Jul 20 20:02:06 2019 +0800
+
+    修改订单提交逻辑
+
+[33mcommit 3fc43fdc3ae6b50f813969403358aac3e07e8f69[m
+Author: chengge37 <554174804@qq.com>
+Date:   Sat Jul 20 20:01:52 2019 +0800
+
+    修改订单提交逻辑
+
+[33mcommit 73da44915aba93e2a148ea5e1d0f6f95cb6963c4[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Sat Jul 20 20:01:51 2019 +0800
+
+    添加小登录框,暂时屏蔽订单数据异常部分
+
+[33mcommit 13464816c7ebdd41be55876f4a57781c1b0b03a8[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Sat Jul 20 20:00:53 2019 +0800
+
+    个人中心页面全部还原完成
+
+[33mcommit 239f3a1e0d21982798ac986ded4079e78b2a9cce[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Sat Jul 20 16:28:28 2019 +0800
+
+    订单管理中加入添加订单
+
+[33mcommit 30efce97460a76f368ed3e42bed07087116c6506[m
+Merge: 59f966a eef648d
+Author: 王林 <usbwc@126.com>
+Date:   Sat Jul 20 15:36:37 2019 +0800
+
+    Merge branch 'master' of paitume.tpddns.cn:paitu/front
+
+[33mcommit 59f966a65399acb5098887d96bd3b374fc84f5bb[m
+Author: 王林 <usbwc@126.com>
+Date:   Sat Jul 20 15:36:27 2019 +0800
+
+    sms支付历史列表
+
+[33mcommit eef648dbd4f48438aab3964d3b9025d96e102328[m
+Author: chengge37 <554174804@qq.com>
+Date:   Sat Jul 20 09:44:46 2019 +0800
+
+    重新提交代码
+
+[33mcommit 13858de0edeac2e95c38073dfb5ba0f1423e75da[m
+Author: 王林 <usbwc@126.com>
+Date:   Sat Jul 20 06:06:18 2019 +0800
+
+    sms
+
+[33mcommit f2558c9f9b5303622aabf80c77204172c12ce8a0[m
+Merge: 775dc24 0e48c37
+Author: 王林 <usbwc@126.com>
+Date:   Sat Jul 20 06:05:07 2019 +0800
+
+    Merge branch 'master' of paitume.tpddns.cn:paitu/front
+
+[33mcommit 775dc2477cac0a52de1d3667a323ebe35673b45f[m
+Author: 王林 <usbwc@126.com>
+Date:   Sat Jul 20 06:05:00 2019 +0800
+
+    sms
+
+[33mcommit 0e48c37d81a1e01f733187e516b3a8d293abdada[m
+Merge: 5bae246 1a793b1
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Fri Jul 19 21:05:18 2019 +0800
+
+    update
+
+[33mcommit 5bae246f2c643e1558de9cf63111f4cd887d3d2c[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Fri Jul 19 21:02:16 2019 +0800
+
+    个人中心页面还原基本完成
+
+[33mcommit 1a793b13d8e7b4be81a939124354efe072859d85[m
+Author: chengge37 <554174804@qq.com>
+Date:   Fri Jul 19 20:58:31 2019 +0800
+
+    修改订单页面逻辑
+
+[33mcommit d4574b918d9ff573b1d425a4bd568b7a611052d3[m
+Merge: 92bca23 e82c8f1
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Fri Jul 19 20:31:14 2019 +0800
+
+    Merge branch 'master' of paitume.tpddns.cn:paitu/front
+
+[33mcommit 92bca23308e361a1f61f41493fdc0971d94c52f9[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Fri Jul 19 20:30:47 2019 +0800
+
+    update
+
+[33mcommit e82c8f13e4092fb5ec68b28efc40db1b1b91f094[m
+Author: chengge37 <554174804@qq.com>
+Date:   Fri Jul 19 20:28:32 2019 +0800
+
+    编写订单业务逻辑
+
+[33mcommit 273e86b2d9f2ead843e603b8aabad02a00d1c668[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Fri Jul 19 20:10:15 2019 +0800
+
+    边栏可收起,为后续改动做准备
+
+[33mcommit 3a5553036cbbd53313bc1aae503143e2062ed825[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Fri Jul 19 13:56:56 2019 +0800
+
+    替换登录图.修改路由拦截逻辑
+
+[33mcommit 29981e0c1499e4bc25ef92c85e906c8c8cd3b57e[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Thu Jul 18 20:17:36 2019 +0800
+
+    更新依赖优化编译速度
+
+[33mcommit 0a1af3771b41fd2c031da14daa2f039cf94b9bf4[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 20:16:53 2019 +0800
+
+    个人中心页面还原
+
+[33mcommit b1e5969cd49d26a2960dd29de1c613f0683ac24b[m
+Author: chengge37 <554174804@qq.com>
+Date:   Thu Jul 18 20:16:16 2019 +0800
+
+    ‘修改影棚详情页面
+    
+    git commit -m ‘修改影棚详情页面
+
+[33mcommit 14bc6ace5f4e68301503bcaf01b80231d2706fb5[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Thu Jul 18 15:35:00 2019 +0800
+
+[33mcommit 34bfb45f7ca945b6ac6ead432db074e22cb30e48[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Thu Jul 18 15:33:56 2019 +0800
+
+    新增一个分页使用详见内注释
+
+[33mcommit 5970a5363bf0142d83cbfe197ae414fad0a47ca0[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 15:13:53 2019 +0800
+
+    bug修复
+
+[33mcommit ac63a03ca1fdb2042b7ee52d7582d38932d4ae1f[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 11:18:44 2019 +0800
+
+    update
+
+[33mcommit 9b0354be52aa8df2d1d77f6f89c8ab523b70c920[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 11:11:43 2019 +0800
+
+    update
+
+[33mcommit 8e717336a0ae8932d91e824f70bf3a36b2ec31ce[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 11:08:12 2019 +0800
+
+    update
+
+[33mcommit 7c417f9a0ad095f8c7f0bf680b6d31fe9d1b105c[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 10:24:40 2019 +0800
+
+    update
+
+[33mcommit e1bb49cefcaf51096f7aa8e35da74c1997f93586[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Thu Jul 18 10:17:38 2019 +0800
+
+    update
+
+[33mcommit 841a0a9a92b090f287ebbdf0a51c7308d64286e2[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Wed Jul 17 20:06:20 2019 +0800
+
+    合并
+
+[33mcommit 79a1b8a0faa95aaf396f6dab9c460df750c37c8d[m
+Merge: 3403202 341bd24
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Wed Jul 17 20:04:47 2019 +0800
+
+    update
+
+[33mcommit 34032022d0349a94432f4aeede533e134bd58570[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Wed Jul 17 20:00:54 2019 +0800
+
+    个人中心模板修改
+
+[33mcommit 341bd24cd2a2290fa819b0e6eb466bcbc34f197a[m
+Author: chengge37 <554174804@qq.com>
+Date:   Wed Jul 17 20:00:37 2019 +0800
+
+    ’调试影棚列表接口
+
+[33mcommit 5e44f062f5143af7ad36b9dea4ba4c3ec7f46cbb[m
+Merge: 499df3b e9bc6b8
+Author: chengge37 <554174804@qq.com>
+Date:   Wed Jul 17 19:58:44 2019 +0800
+
+    ’调试影棚列表接口
+
+[33mcommit 499df3bd0c474d8a330b18c62fdb25004bc863a1[m
+Author: chengge37 <554174804@qq.com>
+Date:   Wed Jul 17 19:58:21 2019 +0800
+
+    ’调试影棚列表接口
+
+[33mcommit e9bc6b8036cdc4d070e050c53c8fed12bce9862c[m
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Wed Jul 17 19:52:05 2019 +0800
+
+    注释路由中原来的所有页面除404,添加前台分页组件
+
+[33mcommit 67deea3201523a2e2e97a56d8a171d6ca8dd65be[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Wed Jul 17 16:06:25 2019 +0800
+
+    update
+
+[33mcommit b5e85868c5ccfa6e2462f652a412d048542090b7[m
+Merge: ccb3fc1 af8dda3
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Wed Jul 17 16:00:20 2019 +0800
+
+    Merge branch 'master' of paitume.tpddns.cn:paitu/front
+
+[33mcommit ccb3fc1be53a41ea06022f36c57fee6817ef19e6[m
+Author: Pimo庞英华 <634717710@qq.com>
+Date:   Wed Jul 17 16:00:11 2019 +0800
+
+    update
+
+[33mcommit af8dda3c7595887725144adb428ee9d40be1bab4[m
+Merge: 0a08b3c 58d6f72
+Author: 张恒 <syl1998@hotmail.com>
+Date:   Wed Jul 17 15:59:19 2019 +0800
+
+    Merge branch 'master' of paitume.tpddns.cn:paitu/front
+
+[33mcommit 0a08b3c8d30705a60389dab442669e4269bed
